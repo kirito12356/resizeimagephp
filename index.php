@@ -11,6 +11,7 @@
 	</form>
 	<script type="text/javascript">
 		
+		
 		// $(document).ready(function (e) {
 		//     $('#uploadimage').on('submit',(function(e) {
 		//         e.preventDefault();
